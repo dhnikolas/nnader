@@ -1,0 +1,24 @@
+{
+  "system": {
+    "getting_token": "Getting token from storage...",
+    "tokens_saved": "Tokens saved to storage..."
+  },
+  "nblogs_adder": "nBlogs adder",
+  "chrome_extension": "Chrome extension",
+  "enter": "Enter",
+  "password": "Password",
+  "login": "Username (Email)",
+  "wrong_login_or_password" : "Wrong login or password",
+  "login_and_passord_require": "Username and password require",
+  "login_require": "Login require",
+  "password_require": "Password require",
+  "logout": "Logout",
+  "add": "Add",
+  "settings" : "Settings",
+  "choose_category": "Сategory",
+  "choose_entry": "Entry",
+  "chose_desc": "Select the categories in which you want to quickly add your new notes",
+  "where_save": "Where to save?",
+  "success": "Success!",
+  "added": "Added to nBlogs"
+}

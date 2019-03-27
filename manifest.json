@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+  "name": "nBlogs Adder",
+  "short_name": "nAdder",
+  "version": "0.2",
+  "author": "dhnikolas",
+  "description": "Add content to your own nBlog",
+  "icons": {
+    "16": "assets/icons/16x16.png",
+    "32": "assets/icons/32x32.png",
+    "48": "assets/icons/48x48.png",
+    "64": "assets/icons/64x64.png",
+    "128": "assets/icons/128x128.png"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "notifications",
+    "clipboardRead",
+    "clipboardWrite",
+    "storage",
+    "http://*/",
+    "https://*/",
+    "tabs"
+  ],
+  "browser_action": {
+    "default_title": "nAdder",
+    "default_icon": "assets/icons/48x48.png",
+    "default_popup": "popup.html"
+  }
+}
+
+

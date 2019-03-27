@@ -1,0 +1,24 @@
+{
+  "system": {
+    "getting_token": "Получение токенов из хранилища...",
+    "tokens_saved": "Токены сохранены..."
+  },
+  "nblogs_adder": "nBlogs adder",
+  "chrome_extension": "Расширение для Google Chrome",
+  "enter": "Войти",
+  "password": "Пароль",
+  "login": "Логин (Email)",
+  "wrong_login_or_password" : "Неверный логин или пароль",
+  "login_and_passord_require": "Заполните обязательные поля Логи и пароль",
+  "login_require": "Введите логин",
+  "password_require": "Введите пароль",
+  "logout": "Выйти",
+  "add": "Добавить",
+  "settings" : "Настройки",
+  "choose_category": "Категория",
+  "choose_entry": "Запись",
+  "chose_desc": "Выберите категории в которые вы хотите быстро добавлять ваши новые заметки",
+  "where_save": "Куда сохранять?",
+  "success": "Успех!",
+  "added": "Добавлено!"
+}
