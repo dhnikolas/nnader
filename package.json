@@ -2,7 +2,7 @@
   "name": "nadder_v2",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "nprilepov <nprilepov@team.amocrm.com>",
+  "author": "dhnikolas <dhnikolas@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
